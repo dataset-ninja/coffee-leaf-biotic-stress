@@ -50,12 +50,12 @@ custom_data = {
         "object detection",
         "instance segmentation",
     ],
-    "annotation_types": ["semantic segmentation"],
+    "annotation_types": ["instance segmentation"],
     "industries": ["agriculture"],
-    "release_year": 2018,
+    "release_year": 2019,
     "homepage_url": "https://github.com/esgario/lara2018/",
     "license": "MIT License",
-    "license_url": "hhttps://spdx.org/licenses/MIT.html",
+    "license_url": "https://spdx.org/licenses/MIT.html",
     "preview_image_id": 190895,
     "github": "dataset-ninja/coffee-leaf-biotic-stress",
     "github_url": "https://github.com/dataset-ninja/coffee-leaf-biotic-stress",
@@ -111,7 +111,7 @@ def build_stats():
 
     if len(vstats) > 0:
         if heatmaps.force:
-            heatmaps.to_image(f"./stats/{heatmaps.basename_stem}.png", draw_style="outside_black")
+            heatmaps.to_image(f"./stats/{heatmaps.basename_stem}.png")
         if classes_previews.force:
             classes_previews.animate(f"./visualizations/{classes_previews.basename_stem}.webm")
         if previews.force:
