@@ -8,7 +8,8 @@ from dotenv import load_dotenv
 
 import src.settings as s
 
-from src.convert import convert_and_upload_supervisely_project
+# from src.convert import convert_and_upload_supervisely_project
+from dataset_tools.convert.coffee.main import to_supervisely
 
 # Create instance of supervisely API object.
 load_dotenv(os.path.expanduser("~/ninja.env"))
@@ -31,7 +32,8 @@ s.check_before_upload()
 project_info = api.project.get_info_by_name(workspace_id, s.PROJECT_NAME)
 if not project_info:
     # If project doesn't found on instance, create it and use new project info.
-    project_info = convert_and_upload_supervisely_project(api, workspace_id, s.PROJECT_NAME)
+    # project_info = convert_and_upload_supervisely_project(api, workspace_id, s.PROJECT_NAME)
+    project_info = to_supervisely(api, workspace_id)
     sly.logger.info(f"Project {s.PROJECT_NAME} not found on instance. Created new project.")
     sly.logger.info("Now you can explore created project and choose 'preview_image_id'.")
     sys.exit(0)
