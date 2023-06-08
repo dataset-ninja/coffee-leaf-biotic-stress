@@ -1,1 +1,1 @@
-[MIT License](https://spdx.org/licenses/MIT.html)
+Deep Learning for Classification and Severity Estimation of Coffee Leaf Biotic Stress data uses [MIT License](https://spdx.org/licenses/MIT.html).

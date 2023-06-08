@@ -1,3 +1,3 @@
-# coffee-leaf-biotic-stress
+# Deep Learning for Classification and Severity Estimation of Coffee Leaf Biotic Stress
 
-Images of arabica coffee leaves affected by the main biotic stresses that affect the coffee tree.
+Coffee Leaf Biotic Stress is a dataset for semantic segmentation, object detection, and instance segmentation tasks.
