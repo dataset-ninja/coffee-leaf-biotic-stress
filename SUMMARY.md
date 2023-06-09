@@ -2,7 +2,7 @@
 
 The dataset consists of 500 images with 2977 labeled objects belonging to 2 different classes including *leaf* and *symptom*.
 
-Each image in the Coffee Leaf Biotic Stress dataset has pixel-level instance segmentation annotations. Due to the nature of the instance segmentation task, it can be automatically transformed into semantic segmentation (only one mask for every class) or object detection (bounding boxes for every object) tasks. There are 0 (0% of the total) unlabeled images (i.e. without annotations). There are 3 splits in the dataset: *Test* (50 images), *Val* (50 images), and *Train* (400 images). The dataset was released in 2019.
+Each image in the Coffee Leaf Biotic Stress dataset has pixel-level instance segmentation annotations. Due to the nature of the instance segmentation task, it can be automatically transformed into semantic segmentation (only one mask for every class) or object detection (bounding boxes for every object) tasks. All images are labeled (i.e. with annotations). There are 3 splits in the dataset: *Test* (50 images), *Val* (50 images), and *Train* (400 images). The dataset was released in 2019.
 
 Here are the visualized examples for each of the 2 classes:
 
