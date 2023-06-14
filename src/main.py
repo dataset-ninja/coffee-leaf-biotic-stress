@@ -7,8 +7,8 @@ import supervisely as sly
 from dataset_tools import ProjectRepo
 from dotenv import load_dotenv
 
-import src.settings as s
-from src.convert import convert_and_upload_supervisely_project
+import settings as s
+from convert import convert_and_upload_supervisely_project
 
 PARENT_PATH = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 LOCAL_ENV = os.path.join(PARENT_PATH, "local.env")
