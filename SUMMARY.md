@@ -6,4 +6,4 @@ Each image in the Coffee Leaf Biotic Stress dataset has pixel-level instance seg
 
 Here is the visualized example grid with annotations:
 
-<img src="https://github.com/dataset-ninja/coffee-leaf-biotic-stress/raw/main/visualizations/poster.png")
+<img src="https://github.com/dataset-ninja/coffee-leaf-biotic-stress/raw/main/visualizations/poster.png">
