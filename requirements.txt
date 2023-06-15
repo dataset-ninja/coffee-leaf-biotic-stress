@@ -1,3 +1,0 @@
-supervisely==6.72.19
-dataset-tools==0.0.9
-gdown

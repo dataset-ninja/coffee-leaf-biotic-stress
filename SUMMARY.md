@@ -4,6 +4,6 @@ The dataset consists of 500 images with 2977 labeled objects belonging to 2 diff
 
 Each image in the Coffee Leaf Biotic Stress dataset has pixel-level instance segmentation annotations. Due to the nature of the instance segmentation task, it can be automatically transformed into semantic segmentation (only one mask for every class) or object detection (bounding boxes for every object) tasks. All images are labeled (i.e. with annotations). There are 3 splits in the dataset: *Test* (50 images), *Val* (50 images), and *Train* (400 images). The dataset was released in 2019.
 
-Here are the visualized examples for each of the 2 classes:
+Here is the visualized example grid with annotations:
 
-[Dataset classes](https://github.com/dataset-ninja/coffee-leaf-biotic-stress/raw/main/visualizations/classes_preview.webm)
+<img src="https://github.com/dataset-ninja/coffee-leaf-biotic-stress/raw/main/visualizations/poster.png">
