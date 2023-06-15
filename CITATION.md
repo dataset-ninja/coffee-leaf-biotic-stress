@@ -1,11 +1,7 @@
-If you make use of Deep Learning for Classification and Severity Estimation of Coffee Leaf Biotic Stress data, please cite the following reference (to be prepared after the challenge workshop) in any publications:
+If you make use of the Coffee Leaf Biotic Stress data, please cite the following reference:
 
-```
-@misc{Coffee Leaf Biotic Stress,
-	author = "J. G. M. Esgario and R. A. Krohling and J. A. Ventura",
-	title = "Deep Learning for Classification and Severity Estimation of Coffee Leaf Biotic Stress",
-	howpublished = "https://github.com/esgario/lara2018/"
-}
+``` bibtex
+PASTE HERE CUSTOM CITATION FROM THE SOURCE URL
 ```
 
-[🔗 Source](https://github.com/esgario/lara2018/)
+[🔗 Source](https://arxiv.org/abs/2206.05323)

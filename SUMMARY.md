@@ -1,4 +1,4 @@
-**Coffee Leaf Biotic Stress** (Deep Learning for Classification and Severity Estimation of Coffee Leaf Biotic Stress) is a dataset for semantic segmentation, object detection, and instance segmentation tasks. It is used in the agriculture industry.
+**Deep Learning for Classification and Severity Estimation of Coffee Leaf Biotic Stress** is a dataset for semantic segmentation, object detection, and instance segmentation tasks. It is used in the agriculture industry.
 
 The dataset consists of 500 images with 2977 labeled objects belonging to 2 different classes including *leaf* and *symptom*.
 

@@ -13,4 +13,4 @@ import dataset_tools as dtools
 
 dtools.download(dataset='Coffee Leaf Biotic Stress', dst_path='~/dtools/datasets/Coffee Leaf Biotic Stress.tar')
 ```
-The data in original format can be 🔗[downloaded here.](https://drive.google.com/open?id=15YHebAGrx1Vhv8-naave-R5o3Uo70jsm)
+The data in original format can be 🔗[downloaded here](https://drive.google.com/open?id=15YHebAGrx1Vhv8-naave-R5o3Uo70jsm)
