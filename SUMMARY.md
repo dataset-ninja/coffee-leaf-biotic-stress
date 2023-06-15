@@ -6,4 +6,4 @@ Each image in the Coffee Leaf Biotic Stress dataset has pixel-level instance seg
 
 Here are the visualized examples for each of the 2 classes:
 
-[Dataset classes](https://github.com/dataset-ninja/coffee-leaf-biotic-stress/raw/main/visualizations/classes_preview.webm)
+[Dataset classes](https://github.com/dataset-ninja/coffee-leaf-biotic-stress/raw/main/visualizations/poster.png)
