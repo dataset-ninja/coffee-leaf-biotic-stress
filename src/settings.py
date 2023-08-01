@@ -61,8 +61,8 @@ CLASS2COLOR: Optional[Dict[str, List[str]]] = None
 PAPER: Optional[str] = "https://www.sciencedirect.com/science/article/pii/S0168169919313225"
 CITATION_URL: Optional[str] = None
 AUTHORS: Optional[List[str]] = ["Guilherme Esgario", "Pedro Biasutti"]
-ORGANIZATION_NAME: Optional[Union[str, List[str]]] = None
-ORGANIZATION_URL: Optional[Union[str, List[str]]] = None
+ORGANIZATION_NAME: Optional[Union[str, List[str]]] = "Federal University of Espírito Santo, Brazil"
+ORGANIZATION_URL: Optional[Union[str, List[str]]] = "https://internacional.ufes.br/en/institution"
 SLYTAGSPLIT: Optional[Dict[str, List[str]]] = None
 TAGS: List[str] = None
 

@@ -1,1 +1,1 @@
-Deep Learning for Classification and Severity Estimation of Coffee Leaf Biotic Stress is under [MIT License](https://spdx.org/licenses/MIT.html) license.
+Deep Learning for Classification and Severity Estimation of Coffee Leaf Biotic Stress is under [MIT](https://spdx.org/licenses/MIT.html) license.
