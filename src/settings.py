@@ -35,9 +35,9 @@ CV_TASKS: List[CVTask] = [
 ]
 ANNOTATION_TYPES: List[AnnotationType] = [AnnotationType.InstanceSegmentation()]
 
-RELEASE_DATE: Optional[str] = None  # e.g. "YYYY-MM-DD"
+RELEASE_DATE: Optional[str] = "2019-07-18"  # e.g. "YYYY-MM-DD"
 if RELEASE_DATE is None:
-    RELEASE_YEAR: int = 2019
+    RELEASE_YEAR: int = None
 HOMEPAGE_URL: str = "https://github.com/esgario/lara2018/"
 # e.g. "https://some.com/dataset/homepage"
 
