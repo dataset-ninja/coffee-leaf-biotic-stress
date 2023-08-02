@@ -55,7 +55,7 @@ DOWNLOAD_ORIGINAL_URL: Optional[
 ] = "https://drive.google.com/open?id=15YHebAGrx1Vhv8-naave-R5o3Uo70jsm"
 # Optional link for downloading original dataset (e.g. "https://some.com/dataset/download")
 
-CLASS2COLOR: Optional[Dict[str, List[str]]] = None
+CLASS2COLOR: Optional[Dict[str, List[str]]] = {"leaf": [240, 50, 230], "symptom": [0, 255, 255]}
 # If specific colors for classes are needed, fill this dict (e.g. {"class1": [255, 0, 0], "class2": [0, 255, 0]})
 
 PAPER: Optional[str] = "https://www.sciencedirect.com/science/article/pii/S0168169919313225"
