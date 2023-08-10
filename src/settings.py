@@ -17,6 +17,7 @@ PROJECT_NAME: str = "Coffee Leaf Biotic Stress"
 PROJECT_NAME_FULL: Optional[
     str
 ] = "Deep Learning for Classification and Severity Estimation of Coffee Leaf Biotic Stress"
+HIDE_DATASET = False  # set False when 100% sure about repo quality
 
 ##################################
 # * After uploading to instance ##
@@ -84,6 +85,7 @@ def get_settings():
 
     settings = {
         "project_name": PROJECT_NAME,
+        "hide_dataset": HIDE_DATASET,        
         "license": LICENSE,
         "applications": APPLICATIONS,
         "category": CATEGORY,
