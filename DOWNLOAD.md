@@ -1,6 +1,6 @@
 Dataset **Coffee Leaf Biotic Stress** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/S/N/jZ/KUg0nJHbONquHGf5uOjxuwLoDiES61pudu9AZKeVROLAuJeY7PtVssGmqHSWp83znpqAhzyM0GvfyHbI8qNRd6LdEOv89Tt6kmNTup22Z6zWhEqg98U0efavXEaH.tar)
+ [Download](https://www.dropbox.com/scl/fi/4fuk225n1hje55cj629fu/coffee-leaf-biotic-stress-DatasetNinja.tar?rlkey=1r6hwk1te84ydsydck2zoynbt&dl=1)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
